@@ -1,4 +1,3 @@
-package lesson2.homework;
 import java.util.Arrays;
 
 public class homeWork2lesson {
